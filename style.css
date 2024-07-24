@@ -1,0 +1,28 @@
+h1{
+  background-color:violet;
+  text-align:center;
+  border:5px double darkblue;
+}
+h2{
+  background-color:violet;
+  text-align:center;
+  border:5px double darkblue;
+}
+h4{
+  background-color:violet;
+  text-align:center;
+  border:5px double darkblue;
+}
+body{
+  background-color:pink; 
+}
+img{
+  width:200px;
+    margin-left:200px;
+  border:5px double darkblue
+}
+header{
+  background-color:violet;
+  text-align:center;
+  border:5px double darkblue;
+}
